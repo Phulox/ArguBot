@@ -1,4 +1,4 @@
-WILDFIRE DETECTOR WEBSITE
+Argumentative Bot Project
 
 INFO:
-This site was made for the growing concern of wildfires around the world in due to climate change. My site is intended only for educational purposes and should not be 100% reliable for any misunderstanding and accidental falty publishing.
+With the rise of AI, humanity can benefit from its argumentative capabilities and rich vocabulairy to enrich its own.
