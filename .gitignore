@@ -2,4 +2,4 @@
 ./config/*
 **/.DS_Store
 .env
-resources/application-local.properties
+resources/application_local.properties
